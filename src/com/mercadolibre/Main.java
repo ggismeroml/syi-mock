@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 
 public class Main {
 
-    private static final String version = "0.1";
+    private static final String version = "0.1.1";
 
     public static void main(String[] args) throws IOException {
 
